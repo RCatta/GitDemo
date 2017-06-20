@@ -6,5 +6,9 @@ public class MainClass {
 		System.out.println("Hello world");
 		
 	}
+	
+	public static void empty(){
+		
+	}
 
 }
