@@ -6,5 +6,9 @@ public class MainClass {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public static void empty(){
+		
+	}
 
 }
